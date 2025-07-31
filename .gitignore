@@ -1,0 +1,42 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Hidden system files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+*.venv
+venv/
+ENV/
+env/
+.venv/
+.Python
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Data files (you can keep raw samples or link download instructions)
+data/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.db
+*.zip
+
+# Jupyter metadata
+*.nbconvert.ipynb
+*.nbproject

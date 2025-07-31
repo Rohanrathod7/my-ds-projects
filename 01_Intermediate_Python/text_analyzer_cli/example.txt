@@ -1,0 +1,2 @@
+This is an example text. It contains multiple sentences! Some of them are short? Others are a bit longer, maybe.
+You can use this file to test your Text Analyzer CLI.
