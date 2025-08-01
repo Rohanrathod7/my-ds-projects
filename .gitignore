@@ -28,7 +28,7 @@ env/
 *.swo
 
 # Data files (you can keep raw samples or link download instructions)
-data/
+
 
 *.tsv
 *.xls
