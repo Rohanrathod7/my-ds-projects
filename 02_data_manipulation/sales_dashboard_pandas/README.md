@@ -11,13 +11,13 @@ This project uses a real **Global Superstore** dataset to create a CLI-based sal
 
 ## Structure
 
-sales_dashboard_global/
-├── cli.py
-├── dashboard.py
-├── utils.py
-├── data/
-│ └── superstore_sales.csv
-└── README.md
+        sales_dashboard_global/
+        ├── cli.py
+        ├── dashboard.py
+        ├── utils.py
+        ├── data/
+        │ └── superstore_sales.csv
+        └── README.md
 
 
 ## Usage

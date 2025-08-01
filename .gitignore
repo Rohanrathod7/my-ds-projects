@@ -29,7 +29,7 @@ env/
 
 # Data files (you can keep raw samples or link download instructions)
 data/
-*.csv
+
 *.tsv
 *.xls
 *.xlsx
