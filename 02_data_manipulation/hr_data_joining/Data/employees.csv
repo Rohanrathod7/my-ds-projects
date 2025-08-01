@@ -1,0 +1,201 @@
+EmployeeID,Name,Department,JobRole,HireDate,MonthlyIncome,PerformanceRating,PercentSalaryHike,YearsAtCompany,TrainingTimesLastYear,Attrition
+1,Maria Moore,Sales,Sales Executive,2022-02-19,15149,3,17,3,1,Yes
+2,Jennifer Hodge,Sales,Sales Executive,2015-11-23,12674,4,11,9,0,Yes
+3,Catherine Blair,R&D,Research Scientist,2017-02-18,11279,1,16,8,5,No
+4,Matthew Hawkins,R&D,Laboratory Technician,2017-02-24,12654,3,10,8,6,Yes
+5,Jonathan Fitzgerald,Finance,Accountant,2021-12-02,7552,2,16,3,6,No
+6,Sara Lowe,Sales,Sales Executive,2018-05-04,9224,1,21,7,6,No
+7,Susan Pena,IT,Software Engineer,2015-08-31,16223,1,24,9,4,Yes
+8,Omar Hernandez,Finance,Financial Analyst,2017-12-26,12044,3,21,7,4,Yes
+9,James Lara,Sales,Sales Executive,2015-12-25,13834,2,19,9,0,Yes
+10,Tiffany Howard MD,Sales,Sales Representative,2023-04-06,7554,4,21,2,1,No
+11,Bryan Johnson,HR,Human Resources,2022-09-14,13980,3,12,2,4,Yes
+12,Carolyn Church,IT,System Administrator,2016-07-07,5677,4,22,9,2,Yes
+13,Stephanie Stevens,HR,Human Resources,2024-03-16,6752,1,20,1,3,No
+14,Mrs. Joyce Williams,Sales,Sales Executive,2016-12-03,17960,3,16,8,5,No
+15,Jessica Griffin,Finance,Accountant,2019-05-03,5340,3,14,6,1,No
+16,Joseph Cooper,IT,Software Engineer,2016-09-15,17709,4,21,8,1,Yes
+17,Samantha Madden,IT,Software Engineer,2020-10-10,4489,1,13,4,1,Yes
+18,Thomas Wilson,Finance,Financial Analyst,2018-11-27,9304,4,24,6,4,No
+19,Deborah Johnston,IT,System Administrator,2017-11-21,14145,1,18,7,6,No
+20,Rebecca Thomas,Sales,Sales Representative,2019-06-26,10123,2,24,6,0,No
+21,Terry Green,IT,System Administrator,2017-12-04,11317,1,19,7,6,Yes
+22,Jessica Miranda,R&D,Laboratory Technician,2018-02-25,15492,2,10,7,4,No
+23,Larry Smith,Finance,Financial Analyst,2022-07-11,4832,3,19,3,1,Yes
+24,Cory Wilson,R&D,Research Scientist,2024-06-12,4403,4,12,1,6,Yes
+25,Rebecca Briggs,R&D,Laboratory Technician,2015-12-09,12007,2,18,9,4,No
+26,Nicholas Flowers,R&D,Research Scientist,2019-01-20,14680,3,22,6,5,No
+27,Taylor Wyatt,Finance,Accountant,2021-08-26,4982,2,17,3,0,No
+28,Lisa Reid,Sales,Sales Executive,2020-10-26,12641,2,10,4,0,Yes
+29,Janet Cole,R&D,Research Scientist,2019-09-02,17834,1,20,5,0,Yes
+30,Ashley Holmes,HR,Recruitment Specialist,2018-07-05,6510,2,25,7,1,No
+31,Monica Harris,Finance,Financial Analyst,2020-12-22,4545,1,23,4,2,No
+32,Lauren Mullins,Finance,Accountant,2023-01-16,17153,1,13,2,0,No
+33,Jenny Steele,HR,Human Resources,2022-03-09,7073,2,16,3,4,No
+34,Monica Williams,R&D,Laboratory Technician,2020-02-22,6006,3,24,5,1,Yes
+35,Mark Moore,Finance,Financial Analyst,2017-02-01,3828,1,12,8,6,Yes
+36,Jose Craig,R&D,Laboratory Technician,2021-07-08,10956,4,16,4,6,No
+37,Matthew Kelly,Sales,Sales Executive,2023-07-11,9209,1,22,2,2,No
+38,Jason Escobar,HR,Recruitment Specialist,2020-01-24,14412,4,14,5,1,No
+39,Courtney Johnson,R&D,Research Scientist,2018-12-17,12489,1,20,6,0,Yes
+40,Matthew Reyes,IT,Software Engineer,2022-05-11,11238,2,11,3,4,Yes
+41,Adriana Barry,R&D,Research Scientist,2021-03-28,12749,1,17,4,3,Yes
+42,Leah Scott,IT,System Administrator,2017-10-27,12485,1,12,7,3,No
+43,Phillip Robinson,HR,Human Resources,2022-08-10,13972,3,17,2,2,No
+44,Kimberly Anderson,R&D,Laboratory Technician,2020-12-05,10491,3,12,4,0,No
+45,Veronica Harris,IT,System Administrator,2021-08-21,4200,2,18,3,1,No
+46,Charles Chavez,Sales,Sales Executive,2021-01-25,9054,3,15,4,3,No
+47,Laura Patel,IT,System Administrator,2015-10-14,13942,3,13,9,1,No
+48,Kimberly Moyer,Sales,Sales Executive,2017-06-03,15163,2,18,8,2,Yes
+49,Nathaniel Walsh,HR,Human Resources,2022-01-21,14263,3,25,3,2,Yes
+50,John Adams,Sales,Sales Representative,2021-03-20,16588,3,11,4,0,No
+51,Erica Joseph,R&D,Laboratory Technician,2022-07-12,5647,4,23,3,4,Yes
+52,Chad Robertson,Sales,Sales Executive,2015-08-14,17468,2,11,9,6,No
+53,Tyler Bennett,IT,System Administrator,2021-07-21,10041,2,11,4,2,No
+54,Rebecca Murray,Sales,Sales Representative,2016-12-19,6441,2,13,8,2,No
+55,Anna Jones,IT,System Administrator,2018-10-10,6878,2,15,6,3,Yes
+56,Chelsea Morton,R&D,Laboratory Technician,2020-09-25,15818,4,17,4,2,Yes
+57,Lauren Solomon,Sales,Sales Representative,2018-08-17,17289,1,25,6,1,Yes
+58,Cindy Harrell,Finance,Accountant,2022-09-29,8000,2,17,2,0,Yes
+59,Victoria Chase,Finance,Accountant,2020-05-26,7564,1,18,5,2,No
+60,Christopher Romero,IT,Software Engineer,2019-07-01,3452,1,18,6,1,No
+61,Destiny White,Sales,Sales Executive,2021-02-21,12774,4,21,4,5,No
+62,Sydney Williams,Finance,Financial Analyst,2022-07-14,9311,2,18,3,0,No
+63,Dana Williams,Sales,Sales Executive,2021-09-15,8967,4,12,3,5,No
+64,Christopher Reeves,IT,Software Engineer,2019-06-13,13868,1,19,6,4,No
+65,Ricardo Sanders,Finance,Accountant,2021-10-24,9592,3,14,3,1,No
+66,Sarah Briggs,Finance,Financial Analyst,2016-03-31,13084,3,22,9,4,Yes
+67,Amanda Chen,HR,Recruitment Specialist,2020-09-11,6443,4,20,4,3,No
+68,Christopher Miller,Finance,Financial Analyst,2019-10-06,11375,4,15,5,5,Yes
+69,Fernando Beck,HR,Recruitment Specialist,2021-05-24,4530,2,19,4,1,Yes
+70,Tabitha Howard,R&D,Research Scientist,2023-02-17,3757,2,25,2,4,Yes
+71,Tristan Hayes,Finance,Accountant,2016-07-11,17518,2,22,9,3,No
+72,Jennifer Hardin,R&D,Research Scientist,2019-12-08,13748,1,13,5,6,No
+73,Chase Young,R&D,Research Scientist,2020-09-02,16174,4,11,4,4,Yes
+74,Michael Velez,Sales,Sales Representative,2024-01-15,5184,4,20,1,6,No
+75,Nancy Smith,IT,Software Engineer,2016-01-26,16608,4,15,9,5,No
+76,Jeremiah Parker,Finance,Accountant,2018-01-13,15317,2,18,7,6,No
+77,Beth Brown,R&D,Laboratory Technician,2022-05-13,10206,1,19,3,1,No
+78,Keith Rose,HR,Recruitment Specialist,2019-04-27,17631,1,14,6,1,Yes
+79,James Gutierrez,Finance,Financial Analyst,2021-09-10,14573,2,12,3,3,No
+80,Karen Fritz,HR,Recruitment Specialist,2022-06-25,9812,1,16,3,6,No
+81,Ernest Keller,Finance,Financial Analyst,2019-08-06,17036,4,25,5,0,No
+82,Mrs. Rebecca Sexton,HR,Recruitment Specialist,2016-09-15,16982,4,17,8,3,Yes
+83,Stephanie Richardson,HR,Recruitment Specialist,2023-05-10,10956,1,22,2,2,No
+84,Tanner Perez,R&D,Laboratory Technician,2020-11-12,5091,1,22,4,4,Yes
+85,Phillip Meyer,Sales,Sales Representative,2022-10-05,5223,4,15,2,0,No
+86,Nicholas Bell,Finance,Accountant,2017-10-03,6467,4,20,7,2,No
+87,Latasha Jarvis,HR,Recruitment Specialist,2021-08-19,7133,1,25,3,0,Yes
+88,Deborah Harris,HR,Human Resources,2015-10-20,13651,1,11,9,6,Yes
+89,Brianna Edwards,R&D,Research Scientist,2015-11-08,16749,1,14,9,1,Yes
+90,Andrew Hamilton,Finance,Financial Analyst,2021-09-05,12240,2,24,3,5,No
+91,Michael Stafford,HR,Human Resources,2017-03-08,12926,1,15,8,2,Yes
+92,Scott Nielsen,IT,System Administrator,2024-03-04,8111,4,22,1,5,Yes
+93,Jessica Chavez,Sales,Sales Executive,2020-08-26,4669,3,13,4,6,Yes
+94,Eddie White,HR,Recruitment Specialist,2020-12-02,13838,3,12,4,4,No
+95,Pamela Coleman,Sales,Sales Representative,2021-09-14,16473,4,13,3,3,No
+96,Michael Novak,Finance,Financial Analyst,2023-08-26,10135,2,18,1,4,No
+97,Jennifer Lutz,Finance,Accountant,2016-03-14,16528,3,20,9,6,Yes
+98,Kayla Smith,Sales,Sales Representative,2018-08-08,17444,4,17,6,6,No
+99,Emily Holder,IT,Software Engineer,2019-10-23,8511,1,25,5,6,No
+100,Alicia Anderson,R&D,Laboratory Technician,2022-04-06,6475,3,18,3,2,No
+101,Kathy Butler,IT,Software Engineer,2018-06-10,12106,1,16,7,0,Yes
+102,Antonio Conner,Finance,Accountant,2024-03-11,12096,2,25,1,5,No
+103,Adam Knox,Finance,Financial Analyst,2024-05-22,4524,3,17,1,3,Yes
+104,Angela Holmes,HR,Recruitment Specialist,2016-05-07,10753,3,23,9,5,No
+105,Natalie Barnes,HR,Recruitment Specialist,2023-04-07,7438,3,18,2,1,Yes
+106,Ryan Gomez,R&D,Laboratory Technician,2019-12-30,4958,2,16,5,1,No
+107,Patricia Estrada,HR,Recruitment Specialist,2017-10-24,4647,2,19,7,1,No
+108,Lori Fernandez,R&D,Laboratory Technician,2015-12-03,3231,2,18,9,0,Yes
+109,Edward Hall,IT,Software Engineer,2020-01-11,14426,2,25,5,0,Yes
+110,Gerald Andersen,IT,Software Engineer,2016-11-11,10690,4,24,8,2,Yes
+111,Tyler Freeman,Sales,Sales Representative,2022-07-13,17118,4,13,3,6,Yes
+112,Anne Williams,Finance,Accountant,2017-09-19,4213,1,14,7,1,No
+113,Jonathan Smith,Sales,Sales Executive,2017-07-28,4940,4,17,8,6,No
+114,Michael Scott,Finance,Accountant,2018-07-09,7871,4,19,7,4,Yes
+115,Helen Howard,IT,System Administrator,2018-01-19,15496,2,16,7,2,Yes
+116,Joshua Hartman,R&D,Research Scientist,2022-01-06,5847,1,15,3,0,No
+117,Cynthia Bowman,Finance,Accountant,2019-06-29,7771,1,17,6,2,No
+118,Kevin Parrish,Finance,Financial Analyst,2018-10-19,14262,2,18,6,6,Yes
+119,Timothy Rodgers,Finance,Financial Analyst,2016-09-06,11922,2,14,8,2,Yes
+120,Theresa Johnson,Sales,Sales Executive,2022-12-03,5718,3,19,2,3,Yes
+121,William Jenkins,Finance,Accountant,2018-11-01,14464,4,18,6,4,No
+122,Matthew Pennington,Finance,Financial Analyst,2016-02-28,12798,1,23,9,5,No
+123,Steven Edwards,IT,Software Engineer,2015-10-12,3423,1,17,9,5,Yes
+124,Jose Castillo,HR,Human Resources,2023-08-11,15502,2,25,1,4,No
+125,Barbara Lopez,HR,Human Resources,2022-10-04,12590,4,25,2,0,No
+126,Joseph Suarez,HR,Recruitment Specialist,2020-07-14,8460,3,13,5,6,Yes
+127,Kevin Reynolds,HR,Recruitment Specialist,2018-12-01,14365,4,19,6,5,No
+128,Carrie Griffin,IT,System Administrator,2023-05-07,10451,1,20,2,2,No
+129,David Lopez,Sales,Sales Representative,2019-04-26,17170,1,24,6,3,Yes
+130,Alan Simmons,R&D,Laboratory Technician,2017-01-11,13201,4,24,8,6,Yes
+131,Megan Marshall,R&D,Laboratory Technician,2022-08-17,11998,2,19,2,3,No
+132,Allison Miller,Sales,Sales Executive,2019-05-06,13322,2,15,6,2,Yes
+133,Karen Patterson,IT,Software Engineer,2019-12-29,4527,2,13,5,3,Yes
+134,Emily Wells,R&D,Laboratory Technician,2022-02-23,14740,3,18,3,3,No
+135,Russell Sexton,Finance,Financial Analyst,2017-11-09,10483,2,22,7,1,Yes
+136,Stephen Clark,Sales,Sales Representative,2023-09-20,15659,4,20,1,6,No
+137,Brenda Henderson,Sales,Sales Representative,2018-06-08,14895,3,25,7,6,Yes
+138,Jorge Meza,Finance,Accountant,2022-06-01,8654,3,22,3,3,No
+139,Bobby Evans,R&D,Research Scientist,2015-10-06,12368,4,17,9,6,No
+140,Heather Walker,Sales,Sales Representative,2019-10-01,15201,4,22,5,3,Yes
+141,Gwendolyn Ingram,Finance,Financial Analyst,2023-05-09,5068,3,13,2,6,No
+142,Elizabeth Clarke,Sales,Sales Representative,2016-03-16,3251,2,23,9,6,Yes
+143,Jillian Ellis,Sales,Sales Representative,2020-01-10,15804,3,20,5,4,No
+144,Dawn Benson,Sales,Sales Representative,2019-12-25,16964,4,20,5,5,No
+145,Melissa Townsend,IT,System Administrator,2016-01-31,13116,1,17,9,5,No
+146,Amber Scott,R&D,Research Scientist,2021-12-13,10110,1,13,3,3,Yes
+147,Nathan Cortez,HR,Human Resources,2019-06-26,3753,3,11,6,2,No
+148,Joseph Vasquez,HR,Recruitment Specialist,2023-12-28,5385,2,23,1,4,Yes
+149,Meagan Velazquez,R&D,Research Scientist,2017-04-20,4293,4,17,8,3,Yes
+150,Jonathan Khan,R&D,Laboratory Technician,2017-08-05,13451,3,24,7,2,Yes
+151,Sara Williams,Finance,Accountant,2023-12-14,14101,2,12,1,3,No
+152,Angela Moore MD,IT,Software Engineer,2023-04-08,13468,4,18,2,3,No
+153,Patricia Torres,R&D,Laboratory Technician,2021-03-09,16981,4,13,4,1,No
+154,Julie Brennan,IT,Software Engineer,2023-01-09,12417,3,19,2,0,No
+155,Jerry Hurley,HR,Human Resources,2018-11-03,12272,1,25,6,6,No
+156,Ashley Greer,R&D,Laboratory Technician,2020-01-04,6588,2,18,5,5,Yes
+157,Alexander Dean,Sales,Sales Executive,2021-08-04,8061,4,11,3,4,No
+158,Melissa Griffin,R&D,Research Scientist,2023-05-19,17903,3,20,2,5,No
+159,Keith Cordova,R&D,Research Scientist,2016-03-01,5165,3,18,9,6,Yes
+160,Rebecca Roberts,HR,Recruitment Specialist,2016-01-13,16213,3,20,9,6,Yes
+161,Guy Perkins,Finance,Financial Analyst,2021-05-09,5306,2,22,4,6,No
+162,Katherine Lopez,Sales,Sales Representative,2017-02-05,3228,3,13,8,3,No
+163,Robert Miller,HR,Recruitment Specialist,2021-09-29,16474,3,13,3,5,Yes
+164,Susan Reed,Finance,Financial Analyst,2021-10-08,13150,3,17,3,5,Yes
+165,Lisa Davis,Finance,Accountant,2017-07-19,13637,4,13,8,1,Yes
+166,Joshua Gill,Sales,Sales Representative,2023-02-08,11071,1,13,2,1,Yes
+167,Sara Daniel,Finance,Accountant,2022-02-25,9078,4,14,3,3,Yes
+168,Jasmine Perez,Finance,Accountant,2016-08-13,7583,1,21,8,1,No
+169,Anne Henderson,Finance,Financial Analyst,2019-11-01,17015,3,13,5,5,No
+170,Erica Klein,IT,Software Engineer,2020-08-09,3992,4,18,4,1,Yes
+171,David Cox,Finance,Financial Analyst,2023-10-13,13858,2,10,1,0,No
+172,Sharon Stewart,R&D,Research Scientist,2017-01-05,15893,2,12,8,6,Yes
+173,Katie Olson,IT,System Administrator,2023-07-05,16321,2,20,2,6,Yes
+174,Morgan Williams,IT,System Administrator,2020-01-29,7542,2,14,5,4,No
+175,Erika Glover,R&D,Research Scientist,2023-11-01,13830,1,14,1,0,No
+176,Jonathan Diaz,R&D,Laboratory Technician,2017-03-27,3258,2,18,8,0,Yes
+177,Joshua Stewart,Finance,Financial Analyst,2018-08-03,15216,1,25,7,3,No
+178,Mr. Stephen Miller,IT,System Administrator,2023-11-29,10405,2,11,1,5,No
+179,Kristen Morris,Finance,Financial Analyst,2022-02-20,3996,4,22,3,3,Yes
+180,Natalie Dodson,Finance,Accountant,2016-10-07,4204,1,20,8,4,Yes
+181,Brian Black,Sales,Sales Executive,2019-10-20,7505,3,22,5,4,No
+182,William Gonzalez,Finance,Accountant,2022-02-26,4624,1,16,3,3,No
+183,Raymond Sanchez,R&D,Laboratory Technician,2018-11-28,8553,4,22,6,3,Yes
+184,Sandra Rush,HR,Recruitment Specialist,2023-04-03,8120,3,21,2,1,No
+185,Jennifer Rangel,Sales,Sales Executive,2019-10-04,16627,1,12,5,3,Yes
+186,Tammy Wilkinson,HR,Human Resources,2017-01-18,12115,1,20,8,5,Yes
+187,Mark Mendoza,Finance,Accountant,2023-10-15,17313,4,11,1,2,No
+188,Ashley Thompson,HR,Human Resources,2016-12-22,12468,2,14,8,5,No
+189,Jennifer Johnson,R&D,Research Scientist,2017-01-23,8736,3,13,8,6,No
+190,Richard Moore,IT,System Administrator,2020-04-04,16225,4,10,5,4,No
+191,Jesus Koch,Sales,Sales Executive,2017-01-24,7477,3,20,8,2,Yes
+192,Sarah Ibarra,R&D,Research Scientist,2018-07-11,12278,4,12,7,1,Yes
+193,Janice Baldwin,Sales,Sales Executive,2019-03-11,9163,4,24,6,2,Yes
+194,Thomas Welch,HR,Recruitment Specialist,2023-07-28,14822,3,12,2,0,Yes
+195,Shelly Barajas,R&D,Research Scientist,2019-07-23,14042,1,18,6,3,No
+196,Scott Cruz,Finance,Accountant,2023-10-16,9785,3,16,1,6,Yes
+197,Christopher Richardson,HR,Recruitment Specialist,2018-11-28,4816,3,25,6,4,No
+198,Kristina Pittman,Sales,Sales Executive,2020-05-18,9475,1,10,5,1,No
+199,Wendy Reyes,R&D,Research Scientist,2023-04-13,15520,3,19,2,2,Yes
+200,Michael Copeland,Sales,Sales Representative,2023-10-17,15239,4,15,1,1,No
