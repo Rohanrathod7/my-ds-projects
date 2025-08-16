@@ -32,9 +32,9 @@ This project is perfect if you want to **learn Data Science** or **showcase your
 ## 🔧 How to Run This App (Step by Step)
 
 # 1) create a clean env (recommended)
-sometime - Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser(personal exp)
-python -m venv .venv
-source .venv/bin/activate   # on Windows: .venv\Scripts\activate
+- sometime - Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser(personal exp)
+- python -m venv .venv
+- source .venv/bin/activate   # on Windows: .venv\Scripts\activate
 
 ### 1️⃣ Install Python
 - Download and install Python (3.8 or higher):  
@@ -48,6 +48,7 @@ pip install -r requirements.txt
 pip install streamlit pandas numpy scikit-learn seaborn matplotlib plotly
 
 streamlit run app.py
+```
 
 # 📊 Example Datasets Included  
 
